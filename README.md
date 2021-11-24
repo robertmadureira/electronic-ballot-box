@@ -1,4 +1,4 @@
-### Urna Eletrônica
+### Urna eletrônica
 
 <p align="center">
   <img src="https://github.com/robertmadureira/electronic-ballot-box/blob/main/screan/2.PNG" width="300" title="hover text">

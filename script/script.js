@@ -88,7 +88,7 @@ function branco() {
         seuVotoPara.style.display = 'block';
         aviso.style.display = 'block';
         numeros.innerHTML = '';
-        descricao.innerHTML = 'fotosHtml += `<div class="d-1-image"><img src="./image/${candidato.fotos[i].url}" alt="" /></div>`;';
+        descricao.innerHTML =  '<div class="aviso-grande pisca">VOTO EM BRANCO</div>';
     } else {
         alert("Para votar em BRANCO, não pode ter digitado nenhum numero!");
     }

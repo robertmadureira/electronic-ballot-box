@@ -33,7 +33,7 @@ let etapas = [{
                 ]
             },
             {
-                numero: '88',
+                numero: '89',
                 nome: 'Zulano',
                 partido: 'DFG',
                 vice: 'Zul',
